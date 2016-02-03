@@ -1,0 +1,5 @@
+[0m[[0mdebug[0m] [0mno default cache defined: set to /home/synerzip/.ivy2/cache[0m
+[0m[[0minfo[0m] [0m:: delivering :: default#akka-workshop_2.11;2.2 :: 2.2 :: release :: Wed Jan 13 13:25:04 IST 2016[0m
+[0m[[0mdebug[0m] [0m	options = status=release pubdate=Wed Jan 13 13:25:04 IST 2016 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0minfo[0m] [0m	delivering ivy file to /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/ivy-2.2.xml[0m
+[0m[[0mdebug[0m] [0m	deliver done (36ms)[0m

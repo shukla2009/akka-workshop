@@ -1,0 +1,27 @@
+[0m[[0minfo[0m] [0mPackaging /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/akka-workshop_2.11-2.2-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com/example/PingActor.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala[0m
+[0m[[0mdebug[0m] [0m	com/avalia/akka/workshop/example/web/Getter.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala[0m
+[0m[[0mdebug[0m] [0m	com/avalia/akka/workshop/example/web/Controller.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala[0m
+[0m[[0mdebug[0m] [0m	com/avalia/akka/workshop/example/bank/Account.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala[0m
+[0m[[0mdebug[0m] [0m	com/avalia/akka/workshop/example/bank/WireTransfer.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala[0m
+[0m[[0mdebug[0m] [0m	com/example/PongActor.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala[0m
+[0m[[0mdebug[0m] [0m	com/avalia/akka/workshop/example/bank/Bank.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala[0m
+[0m[[0mdebug[0m] [0m	com/avalia/akka/workshop/example/web/WebMain.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala[0m
+[0m[[0mdebug[0m] [0m	com/avalia/akka/workshop/example/web/WebClient.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  /home/synerzip/synerzip/akka/akka-workshop/src/main/resources/application.conf[0m
+[0m[[0mdebug[0m] [0m	com/avalia/akka/workshop/example/bank/BankExampleMain.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala[0m
+[0m[[0mdebug[0m] [0m	com/example/ApplicationMain.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

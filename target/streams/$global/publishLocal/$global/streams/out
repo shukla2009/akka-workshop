@@ -1,0 +1,6 @@
+[0m[[0mdebug[0m] [0mlocal do not support transaction. ivy pattern does not use revision as a directory[0m
+[0m[[0minfo[0m] [0m	published akka-workshop_2.11 to /home/synerzip/.ivy2/local/default/akka-workshop_2.11/2.2/poms/akka-workshop_2.11.pom[0m
+[0m[[0minfo[0m] [0m	published akka-workshop_2.11 to /home/synerzip/.ivy2/local/default/akka-workshop_2.11/2.2/jars/akka-workshop_2.11.jar[0m
+[0m[[0minfo[0m] [0m	published akka-workshop_2.11 to /home/synerzip/.ivy2/local/default/akka-workshop_2.11/2.2/srcs/akka-workshop_2.11-sources.jar[0m
+[0m[[0minfo[0m] [0m	published akka-workshop_2.11 to /home/synerzip/.ivy2/local/default/akka-workshop_2.11/2.2/docs/akka-workshop_2.11-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	published ivy to /home/synerzip/.ivy2/local/default/akka-workshop_2.11/2.2/ivys/ivy.xml[0m

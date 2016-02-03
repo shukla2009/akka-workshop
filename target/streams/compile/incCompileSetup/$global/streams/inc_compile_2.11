@@ -1,0 +1,897 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+58 items
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Account$$anonfun$receive$1.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Account$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Account$Deposit$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Account$Deposit.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Account$Done$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Account$Failed$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Account$Withdraw$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Account$Withdraw.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Account.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Bank$$anonfun$receive$1.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Bank$$anonfun$transfer$1.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Bank$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Bank$Init$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Bank.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/BankExampleMain$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/BankExampleMain$delayedInit$body.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/BankExampleMain.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/WireTransfer$$anonfun$awaitForDeposit$1.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/WireTransfer$$anonfun$awaitForWithdraw$1.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/WireTransfer$$anonfun$receive$1.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/WireTransfer$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/WireTransfer$Done$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/WireTransfer$Failed$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/WireTransfer$Transfer$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/WireTransfer$Transfer.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/WireTransfer.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Controller$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Controller$$anonfun$receive$1.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Controller$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Controller$Check$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Controller$Check.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Controller.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Getter$$anonfun$getLinks$1.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Getter$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Getter$$anonfun$receive$1.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Getter$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Getter$Done$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Getter.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/WebClient$$anon$1.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/WebClient$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/WebClient$BadStatus$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/WebClient$BadStatus.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/WebClient.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/WebMain.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/ApplicationMain$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/ApplicationMain$delayedInit$body.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/ApplicationMain.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/PingActor$$anonfun$receive$1.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/PingActor$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/PingActor$Initialize$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/PingActor$PingMessage$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/PingActor$PingMessage.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/PingActor.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/PongActor$$anonfun$receive$1.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/PongActor$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/PongActor$PongMessage$.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/PongActor$PongMessage.class
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> /home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/PongActor.class
+binary dependencies:
+35 items
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> /home/synerzip/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.1.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> /home/synerzip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> /home/synerzip/software/jdk1.8.0_45/jre/lib/rt.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> /home/synerzip/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.1.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> /home/synerzip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> /home/synerzip/software/jdk1.8.0_45/jre/lib/rt.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> /home/synerzip/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.1.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> /home/synerzip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> /home/synerzip/software/jdk1.8.0_45/jre/lib/rt.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> /home/synerzip/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.1.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> /home/synerzip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> /home/synerzip/software/jdk1.8.0_45/jre/lib/rt.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> /home/synerzip/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.1.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> /home/synerzip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> /home/synerzip/software/jdk1.8.0_45/jre/lib/rt.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> /home/synerzip/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.1.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> /home/synerzip/.ivy2/cache/org.jsoup/jsoup/jars/jsoup-1.8.3.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> /home/synerzip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> /home/synerzip/software/jdk1.8.0_45/jre/lib/rt.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> /home/synerzip/.ivy2/cache/com.ning/async-http-client/jars/async-http-client-1.9.31.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> /home/synerzip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> /home/synerzip/software/jdk1.8.0_45/jre/lib/rt.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> /home/synerzip/.ivy2/cache/com.ning/async-http-client/jars/async-http-client-1.9.31.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> /home/synerzip/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.1.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> /home/synerzip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> /home/synerzip/software/jdk1.8.0_45/jre/lib/rt.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> /home/synerzip/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.1.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> /home/synerzip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> /home/synerzip/software/jdk1.8.0_45/jre/lib/rt.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> /home/synerzip/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.1.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> /home/synerzip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> /home/synerzip/software/jdk1.8.0_45/jre/lib/rt.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> /home/synerzip/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.1.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> /home/synerzip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> /home/synerzip/software/jdk1.8.0_45/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+11 items
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> /home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> /home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> /home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> /home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> /home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> /home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> /home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> /home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> /home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> /home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> /home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+58 items
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> com.avalia.akka.workshop.example.bank.Account
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> com.avalia.akka.workshop.example.bank.Account$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> com.avalia.akka.workshop.example.bank.Account$$anonfun$receive$1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> com.avalia.akka.workshop.example.bank.Account$Deposit
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> com.avalia.akka.workshop.example.bank.Account$Deposit$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> com.avalia.akka.workshop.example.bank.Account$Done$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> com.avalia.akka.workshop.example.bank.Account$Failed$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> com.avalia.akka.workshop.example.bank.Account$Withdraw
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> com.avalia.akka.workshop.example.bank.Account$Withdraw$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> com.avalia.akka.workshop.example.bank.Bank
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> com.avalia.akka.workshop.example.bank.Bank$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> com.avalia.akka.workshop.example.bank.Bank$$anonfun$receive$1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> com.avalia.akka.workshop.example.bank.Bank$$anonfun$transfer$1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> com.avalia.akka.workshop.example.bank.Bank$Init$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> com.avalia.akka.workshop.example.bank.BankExampleMain
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> com.avalia.akka.workshop.example.bank.BankExampleMain$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> com.avalia.akka.workshop.example.bank.BankExampleMain$delayedInit$body
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> com.avalia.akka.workshop.example.bank.WireTransfer
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> com.avalia.akka.workshop.example.bank.WireTransfer$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> com.avalia.akka.workshop.example.bank.WireTransfer$$anonfun$awaitForDeposit$1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> com.avalia.akka.workshop.example.bank.WireTransfer$$anonfun$awaitForWithdraw$1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> com.avalia.akka.workshop.example.bank.WireTransfer$$anonfun$receive$1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> com.avalia.akka.workshop.example.bank.WireTransfer$Done$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> com.avalia.akka.workshop.example.bank.WireTransfer$Failed$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> com.avalia.akka.workshop.example.bank.WireTransfer$Transfer
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> com.avalia.akka.workshop.example.bank.WireTransfer$Transfer$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> com.avalia.akka.workshop.example.web.Controller
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> com.avalia.akka.workshop.example.web.Controller$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> com.avalia.akka.workshop.example.web.Controller$$anonfun$receive$1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> com.avalia.akka.workshop.example.web.Controller$$anonfun$receive$1$$anonfun$applyOrElse$1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> com.avalia.akka.workshop.example.web.Controller$Check
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> com.avalia.akka.workshop.example.web.Controller$Check$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> com.avalia.akka.workshop.example.web.Getter
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> com.avalia.akka.workshop.example.web.Getter$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> com.avalia.akka.workshop.example.web.Getter$$anonfun$getLinks$1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> com.avalia.akka.workshop.example.web.Getter$$anonfun$receive$1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> com.avalia.akka.workshop.example.web.Getter$$anonfun$receive$1$$anonfun$applyOrElse$1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> com.avalia.akka.workshop.example.web.Getter$Done$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> com.avalia.akka.workshop.example.web.WebClient
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> com.avalia.akka.workshop.example.web.WebClient$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> com.avalia.akka.workshop.example.web.WebClient$$anon$1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> com.avalia.akka.workshop.example.web.WebClient$BadStatus
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> com.avalia.akka.workshop.example.web.WebClient$BadStatus$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> com.avalia.akka.workshop.example.web.WebMain
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> com.example.ApplicationMain
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> com.example.ApplicationMain$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> com.example.ApplicationMain$delayedInit$body
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> com.example.PingActor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> com.example.PingActor$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> com.example.PingActor$$anonfun$receive$1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> com.example.PingActor$Initialize$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> com.example.PingActor$PingMessage
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> com.example.PingActor$PingMessage$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> com.example.PongActor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> com.example.PongActor$
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> com.example.PongActor$$anonfun$receive$1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> com.example.PongActor$PongMessage
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> com.example.PongActor$PongMessage$
+used names:
+550 items
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> !
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> &&
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> +
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> -
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> <init>
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> ==
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> >
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> A1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> AbstractFunction1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> AbstractLoggingActor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> Account
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> AnyRef
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> B1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> BigInt
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> Deposit
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> Done
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> Failed
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> Function1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> LoggingReceive
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> None
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> Predef
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> Product
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> ScalaRunTime
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> Serializable
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> Withdraw
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> _hashCode
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> _toString
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> actor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> actorRef2Scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> akka
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> amount
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> apply
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> asInstanceOf
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> avalia
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> balance
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> balance_=
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> bank
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> com
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> context
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> eq
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> event
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> example
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> int2bigInt
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> isInstanceOf
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> math
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> package
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> require
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> runtime
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> self
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> sender
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> toString
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> typedProductIterator
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> unchecked
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> workshop
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> ||
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> !
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> <init>
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> ==
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> A1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> AbstractLoggingActor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> Account
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> ActorRef
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> AnyRef
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> B1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> Bank
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> BigInt
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> ClassTag
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> Deposit
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> Done
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> Failed
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> Function1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> Init
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> LoggingReceive
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> Product
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> Props
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> ScalaRunTime
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> Serializable
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> Unit
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> WireTransfer
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> accountA
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> accountB
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> actor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> actorOf
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> actorRef2Scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> akka
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> amount
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> apply
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> asInstanceOf
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> avalia
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> bank
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> become
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> com
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> context
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> debug
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> event
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> example
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> from
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> int2bigInt
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> log
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> materializeClassTag
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> math
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> package
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> runtime
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> self
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> to
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> toString
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> transfer
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> typedProductIterator
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> unchecked
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> workshop
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> wt
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> !
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> <init>
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> Account
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> ActorRef
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> ActorSystem
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> App
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> Bank
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> BankExampleMain
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> ClassTag
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> Deposit
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> Init
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> Props
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> actor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> actorOf
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> actorRef2Scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> akka
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> apply
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> avalia
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> bank
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> com
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> create
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> example
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> materializeClassTag
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> package
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> qual$1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> system
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> workshop
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> x$1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> x$2
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> !
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> &&
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> <init>
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> ==
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> A1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> AbstractFunction3
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> AbstractLoggingActor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> Account
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> Actor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> ActorRef
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> AnyRef
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> B1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> BigInt
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> Done
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> Failed
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> Function1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> LoggingReceive
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> None
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> Product
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> Receive
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> ScalaRunTime
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> Serializable
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> Transfer
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> WireTransfer
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> _hashCode
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> _toString
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> actor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> actorRef2Scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> akka
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> amount
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> apply
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> asInstanceOf
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> avalia
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> awaitForDeposit
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> awaitForWithdraw
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> bank
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> become
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> client
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> com
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> context
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> eq
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> event
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> example
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> form
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> from
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> isInstanceOf
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> package
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> runtime
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> self
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> sender
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> stop
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> to
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> toString
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> typedProductIterator
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> unchecked
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> workshop
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> ||
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> &&
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> +
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> -
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> <init>
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> ==
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> >
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> A1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> AbstractFunction2
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> AbstractLoggingActor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> ActorRef
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> AnyRef
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> B1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> Check
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> ClassTag
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> Controller
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> Done
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> Function1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> Getter
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> Int
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> None
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> Predef
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> Product
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> Props
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> ScalaRunTime
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> Serializable
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> Set
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> Statics
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> String
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> _toString
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> actor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> actorOf
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> akka
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> anyHash
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> apply
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> asInstanceOf
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> avalia
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> cache
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> cache_=
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> children
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> children_=
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> com
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> context
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> depth
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> empty
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> eq
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> example
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> finalizeHash
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> isInstanceOf
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> materializeClassTag
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> mix
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> package
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> runtime
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> sender
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> toString
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> typedProductIterator
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> unary_!
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> unchecked
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> url
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> web
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> workshop
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> ||
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> !
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> <init>
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> A1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> AbstractLoggingActor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> AnyRef
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> B1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> Controller
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> Done
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> Elements
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> Failure
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> Function1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> Future
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> Getter
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> Int
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> Iterator
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> JavaConverters
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> Jsoup
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> Predef
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> Product
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> ScalaRunTime
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> Serializable
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> Status
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> String
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> Success
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> Unit
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> WebClient
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> absUrl
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> actor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> actorRef2Scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> akka
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> apply
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> asInstanceOf
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> asScala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> asScalaIteratorConverter
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> avalia
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> body
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> collection
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> com
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> concurrent
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> context
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> depth
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> dispatcher
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> document
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> example
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> exec
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> foreach
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> future
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> get
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> getLinks
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> isInstanceOf
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> iterator
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> jsoup
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> link
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> links
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> map
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> org
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> package
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> parent
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> parse
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> pattern
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> pipe
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> pipeTo
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> runtime
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> select
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> self
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> stop
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> toString
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> typedProductIterator
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> unchecked
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> url
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> web
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> workshop
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> $anon
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> &&
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> <
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> <init>
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> ==
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> AbstractFunction1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> AnyRef
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> AsyncHttpClient
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> BadStatus
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> Exception
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> Executor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> Future
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> Int
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> ListenableFuture
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> None
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> Predef
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> Product
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> Promise
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> Response
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> Runnable
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> ScalaRunTime
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> Serializable
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> Statics
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> String
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> Unit
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> WebClient
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> addListener
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> akka
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> apply
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> asInstanceOf
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> avalia
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> client
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> com
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> concurrent
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> eq
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> example
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> exec
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> execute
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> f
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> failure
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> finalizeHash
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> future
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> get
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> getResponseBodyExcerpt
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> getStatusCode
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> http
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> isInstanceOf
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> java
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> lang
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> mix
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> ning
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> p
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> package
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> prepareGet
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> response
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> runtime
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> success
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> toString
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> typedProductIterator
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> url
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> util
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> web
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> workshop
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> ||
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> <init>
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> Actor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> App
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> AsyncHttpClient
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> Executor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> Future
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> ListenableFuture
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> Promise
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> Response
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> WebMain
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> actor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> akka
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> avalia
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> client
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> com
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> concurrent
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> example
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> http
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> java
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> ning
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> util
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> web
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> workshop
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> !
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> <init>
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> ActorSystem
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> App
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> ApplicationMain
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> Initialize
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> PingActor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> actor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> actorOf
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> actorRef2Scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> akka
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> apply
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> awaitTermination
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> com
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> example
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> package
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> pingActor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> props
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> qual$1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> system
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> x$1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> x$2
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> !
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> &&
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> +
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> <init>
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> ==
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> A1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> AbstractFunction1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> Actor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> ActorLogging
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> AnyRef
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> B1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> ClassTag
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> Function1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> Initialize
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> None
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> PingActor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> PingMessage
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> PongActor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> Predef
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> Product
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> Props
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> ScalaRunTime
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> Serializable
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> String
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> _hashCode
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> _toString
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> actor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> actorOf
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> actorRef2Scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> akka
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> apply
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> asInstanceOf
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> com
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> context
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> counter
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> counter_=
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> eq
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> example
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> info
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> isInstanceOf
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> log
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> materializeClassTag
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> package
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> pongActor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> props
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> runtime
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> self
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> sender
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> shutdown
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> system
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> text
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> toString
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> typedProductIterator
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> unchecked
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> ||
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> !
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> &&
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> <init>
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> ==
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> A1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> AbstractFunction1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> Actor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> ActorLogging
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> AnyRef
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> B1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> ClassTag
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> Function1
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> None
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> PongActor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> PongMessage
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> Predef
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> Product
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> Props
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> ScalaRunTime
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> Serializable
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> String
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> _hashCode
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> _toString
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> actor
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> actorRef2Scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> akka
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> apply
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> asInstanceOf
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> com
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> eq
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> example
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> info
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> isInstanceOf
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> log
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> materializeClassTag
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> package
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> props
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> runtime
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> scala
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> self
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> sender
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> text
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> toString
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> typedProductIterator
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> unchecked
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> ||
+product stamps:
+58 items
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Account$$anonfun$receive$1.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Account$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Account$Deposit$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Account$Deposit.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Account$Done$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Account$Failed$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Account$Withdraw$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Account$Withdraw.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Account.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Bank$$anonfun$receive$1.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Bank$$anonfun$transfer$1.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Bank$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Bank$Init$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/Bank.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/BankExampleMain$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/BankExampleMain$delayedInit$body.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/BankExampleMain.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/WireTransfer$$anonfun$awaitForDeposit$1.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/WireTransfer$$anonfun$awaitForWithdraw$1.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/WireTransfer$$anonfun$receive$1.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/WireTransfer$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/WireTransfer$Done$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/WireTransfer$Failed$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/WireTransfer$Transfer$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/WireTransfer$Transfer.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/bank/WireTransfer.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Controller$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Controller$$anonfun$receive$1.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Controller$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Controller$Check$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Controller$Check.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Controller.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Getter$$anonfun$getLinks$1.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Getter$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Getter$$anonfun$receive$1.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Getter$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Getter$Done$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/Getter.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/WebClient$$anon$1.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/WebClient$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/WebClient$BadStatus$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/WebClient$BadStatus.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/WebClient.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/avalia/akka/workshop/example/web/WebMain.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/ApplicationMain$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/ApplicationMain$delayedInit$body.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/ApplicationMain.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/PingActor$$anonfun$receive$1.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/PingActor$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/PingActor$Initialize$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/PingActor$PingMessage$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/PingActor$PingMessage.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/PingActor.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/PongActor$$anonfun$receive$1.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/PongActor$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/PongActor$PongMessage$.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/PongActor$PongMessage.class -> lastModified(1452671713000)
+/home/synerzip/synerzip/akka/akka-workshop/target/scala-2.11/classes/com/example/PongActor.class -> lastModified(1452671713000)
+source stamps:
+11 items
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> hash(f699bf92b4f55d48989c48fdb35826d1122381ed)
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> hash(83e8a6fa078d85d33a9e302e60fd1e310caf4b6a)
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> hash(8e33889724ac255bde8c0cbf05ef0df351e697d1)
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> hash(f1d0bbe9b77875f1a341e4db3425035d96717a18)
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> hash(5fcfa31a0b7bcb93f5fb69b8d32a16f1dd0e150e)
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> hash(975e1093746b7b5f07389d0942e438b312db4c36)
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> hash(ab4c8c45d098aab17776bd18690324b4c1eff515)
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> hash(3f402f6959262bdf65f098513f371c6403d1c441)
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> hash(d7cf4d1c100be57293959147e8130afbfc96a2a7)
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> hash(82d935e391b0d6b6a7b7cc5383b024d263e16a9d)
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> hash(db8bf05f752dc06ed9be058b0ed123aa7bf708fa)
+binary stamps:
+5 items
+/home/synerzip/.ivy2/cache/com.ning/async-http-client/jars/async-http-client-1.9.31.jar -> lastModified(1440928486000)
+/home/synerzip/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.1.jar -> lastModified(1448625061000)
+/home/synerzip/.ivy2/cache/org.jsoup/jsoup/jars/jsoup-1.8.3.jar -> lastModified(1438547546000)
+/home/synerzip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+/home/synerzip/software/jdk1.8.0_45/jre/lib/rt.jar -> lastModified(1428686542000)
+class names:
+5 items
+/home/synerzip/.ivy2/cache/com.ning/async-http-client/jars/async-http-client-1.9.31.jar -> com.ning.http.client.AsyncHttpClient
+/home/synerzip/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.1.jar -> akka.actor.ActorLogging
+/home/synerzip/.ivy2/cache/org.jsoup/jsoup/jars/jsoup-1.8.3.jar -> org.jsoup.Jsoup
+/home/synerzip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.runtime.AbstractFunction1
+/home/synerzip/software/jdk1.8.0_45/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+11 items
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAS5odBAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwzbpPj3QABHNlbGZzcQB+AAtMMOrmdAAHY29udGV4dHVxAH4ACQAAADdzcQB+AAuolRA+dAAGbm90aWZ5c3EAfgALFyBf9HQAB3VuYXBwbHlzcQB+AAuCgAOXdAAHUmVjZWl2ZXNxAH4AC3Y2Cuh0AAR3YWl0c3EAfgALd/iYPXQADSRhc0luc3RhbmNlT2ZzcQB+AAssvq0jdAAHY29tcG9zZXNxAH4AC0/uDMp0AAxwcm9kdWN0QXJpdHlzcQB+AAtmhigHdAAGZXF1YWxzc3EAfgALAS9RnHQADGFzSW5zdGFuY2VPZnNxAH4ACw54u1F0AAxzeW5jaHJvbml6ZWRzcQB+AAuWTl1pdAAHRGVwb3NpdHNxAH4ACxx1BHh0AA0kaXNJbnN0YW5jZU9mc3EAfgALPCq72nQAB2FuZFRoZW5zcQB+AAvbLHN1dAAHcmVjZWl2ZXNxAH4AC2RDXnB0AApwcmVSZXN0YXJ0c3EAfgALdQr553QADWFyb3VuZFJlY2VpdmVzcQB+AAs7Sfi/dAAIY2FuRXF1YWxzcQB+AAutq4kcdAAHYmFsYW5jZXNxAH4AC0N9pFV0AAtwb3N0UmVzdGFydHNxAH4AC1u2uK50AAhwb3N0U3RvcHNxAH4AC6SnOgt0AA1wcm9kdWN0UHJlZml4c3EAfgAL07DaRXQACW5vdGlmeUFsbHNxAH4AC6qygNN0AAtyZWFkUmVzb2x2ZXNxAH4AC+8a12R0AAZhbW91bnRzcQB+AAv8H+hsdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAt1rdY7dAAERG9uZXNxAH4AC36HP8R0AAxpc0luc3RhbmNlT2ZzcQB+AAut642gdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC69GJOd0AA5hcm91bmRQb3N0U3RvcHNxAH4AC0Ktmfx0AAhXaXRoZHJhd3NxAH4AC1zUpvp0AAY8aW5pdD5zcQB+AAtz6sugdAAIcHJlU3RhcnRzcQB+AAv8dOWldAAJdW5oYW5kbGVkc3EAfgALpWHBzXQABWFwcGx5c3EAfgALur/kH3QAAj09c3EAfgALFjWNuHQABWNsb25lc3EAfgALx2MtfXQABGNvcHlzcQB+AAuj+JgcdAAKZ2V0Q29udGV4dHNxAH4AC5/uqBt0AAZzZW5kZXJzcQB+AAtc844/dAAIdG9TdHJpbmdzcQB+AAtgWvLqdAACIT1zcQB+AAvZ6xsRdAAIZ2V0Q2xhc3NzcQB+AAseFNwwdAAOY29weSRkZWZhdWx0JDFzcQB+AAuBCU24dAAGRmFpbGVkc3EAfgALM0qFjXQAAm5lc3EAfgALYwl2jnQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC/ZYFSp0AAJlcXNxAH4AC+Geo0d0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAvVp8+edAADbG9nc3EAfgALS+xw3nQAAiMjc3EAfgALZ5ImzXQACGZpbmFsaXplc3EAfgALM9VWk3QADnByb2R1Y3RFbGVtZW50c3EAfgALI+VRXHQACGhhc2hDb2Rlc3EAfgAL5CzMVHQADmFyb3VuZFByZVN0YXJ0c3EAfgALaZGNQnQAB0FjY291bnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAtY29tLmF2YWxpYS5ha2thLndvcmtzaG9wLmV4YW1wbGUuYmFuay5BY2NvdW50dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCieHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgChAHBzcQB+AKZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AiUwACWluaGVyaXRlZHEAfgCJTAAHcGFyZW50c3EAfgCJeHEAfgCqc3EAfgChAHBzcQB+AKZ1cQB+AIQAAAAAc3EAfgChAHBzcQB+AKZ1cQB+AIQAAAAAc3EAfgChAHBzcQB+AKZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKl0ABRBYnN0cmFjdExvZ2dpbmdBY3RvcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AqXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEYWtrYXNxAH4AxnQABWFjdG9yc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AMdzcQB+ALp0AAxBY3RvckxvZ2dpbmdxAH4AwHNxAH4AunQADUFic3RyYWN0QWN0b3JxAH4AwHNxAH4AunQABUFjdG9ycQB+AMBzcQB+ALp0AAZPYmplY3RzcQB+AL5zcQB+AMF1cQB+AMQAAAADc3EAfgDGdAAEamF2YXNxAH4AxnQABGxhbmdxAH4AzXNxAH4AunQAA0FueXNxAH4AvnNxAH4AwXVxAH4AxAAAAAJzcQB+AMZ0AAVzY2FsYXEAfgDNc3EAfgCGcQB+AJN1cQB+AJQAAAAAc3EAfgCWAHQALWNvbS5hdmFsaWEuYWtrYS53b3Jrc2hvcC5leGFtcGxlLmJhbmsuQWNjb3VudHVxAH4AmQAAAAB+cQB+AJt0AAZNb2R1bGV1cQB+AJ8AAAAAc3EAfgChAHBzcQB+AKZxAH4Aq3NxAH4AoQBwc3EAfgCmc3EAfgCuc3EAfgChAHBzcQB+AKZ1cQB+AIQAAAAAc3EAfgChAHBzcQB+AKZ1cQB+AIQAAAAAc3EAfgChAHBzcQB+AKZ1cQB+ALgAAAACc3EAfgC6cQB+ANVzcQB+AL5zcQB+AMF1cQB+AMQAAAADc3EAfgDGcQB+ANpzcQB+AMZxAH4A3HEAfgDNc3EAfgC6cQB+AN5zcQB+AL5zcQB+AMF1cQB+AMQAAAACc3EAfgDGcQB+AONxAH4AzXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAGc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAGGNvbS5hdmFsaWEuYWtrYS53b3Jrc2hvcHNxAH4BB3QAD2NvbS5hdmFsaWEuYWtrYXNxAH4BB3QACmNvbS5hdmFsaWFzcQB+AQd0AANjb21zcQB+AQd0ACVjb20uYXZhbGlhLmFra2Eud29ya3Nob3AuZXhhbXBsZS5iYW5rc3EAfgEHdAAgY29tLmF2YWxpYS5ha2thLndvcmtzaG9wLmV4YW1wbGVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVI5+x7OdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQARC9ob21lL3N5bmVyemlwL3N5bmVyemlwL2Fra2EvYWtrYS13b3Jrc2hvcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU9pm/krT1XUiYnEj9s1gm0RIjge0=
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBEsVBOAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwJpir3nQABHNlbGZzcQB+AAu/YjTVdAAHY29udGV4dHVxAH4ACQAAAC9zcQB+AAt8qSFwdAAGbm90aWZ5c3EAfgALeRp9g3QAB1JlY2VpdmVzcQB+AAt0dGMNdAAEd2FpdHNxAH4AC+mhSgh0AA0kYXNJbnN0YW5jZU9mc3EAfgALetYgY3QACGFjY291bnRBc3EAfgALMx8LgXQADHByb2R1Y3RBcml0eXNxAH4ACydS0sJ0AAZlcXVhbHNzcQB+AAurueHgdAAMYXNJbnN0YW5jZU9mc3EAfgALKm+OSXQABEluaXRzcQB+AAsfFNpLdAAMc3luY2hyb25pemVkc3EAfgALnFp1bnQADSRpc0luc3RhbmNlT2ZzcQB+AAsNd41cdAAHcmVjZWl2ZXNxAH4AC6z2BGp0AApwcmVSZXN0YXJ0c3EAfgALo4QAwnQADWFyb3VuZFJlY2VpdmVzcQB+AAtAGMFRdAAIY2FuRXF1YWxzcQB+AAs+ACctdAALcG9zdFJlc3RhcnRzcQB+AAvMFqGwdAAIcG9zdFN0b3BzcQB+AAs+GFMQdAANcHJvZHVjdFByZWZpeHNxAH4AC2+NnZV0AAlub3RpZnlBbGxzcQB+AAt+BAnpdAALcmVhZFJlc29sdmVzcQB+AAt4d6ztdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAsjmpbjdAAMaXNJbnN0YW5jZU9mc3EAfgALW1BJfHQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAuUd4hkdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAvrVsDVdAAGPGluaXQ+c3EAfgALZvuGD3QACHByZVN0YXJ0c3EAfgALhbzaP3QACXVuaGFuZGxlZHNxAH4AC3nRcwV0AAh0cmFuc2ZlcnNxAH4AC4b6K1B0AAI9PXNxAH4AC/KbbOJ0AAVjbG9uZXNxAH4AC3qnDeR0AApnZXRDb250ZXh0c3EAfgALUish8HQABnNlbmRlcnNxAH4ACx/oXdl0AAhhY2NvdW50QnNxAH4ACyzOcqZ0AAh0b1N0cmluZ3NxAH4AC7F3zQh0AAIhPXNxAH4AC6Wo6iN0AAhnZXRDbGFzc3NxAH4AC8a/jhx0AAJuZXNxAH4AC+IWzRV0AARCYW5rc3EAfgALd5FSWnQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC+fhzFh0AAJlcXNxAH4AC+9Zahl0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAtS+KZtdAADbG9nc3EAfgALryKluHQAAiMjc3EAfgALCPQF23QACGZpbmFsaXplc3EAfgALo17s2XQADnByb2R1Y3RFbGVtZW50c3EAfgALTtI1CnQACGhhc2hDb2Rlc3EAfgALnTw31HQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AeXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAKmNvbS5hdmFsaWEuYWtrYS53b3Jrc2hvcC5leGFtcGxlLmJhbmsuQmFua3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AJJ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJEAcHNxAH4AlnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgB5TAAJaW5oZXJpdGVkcQB+AHlMAAdwYXJlbnRzcQB+AHl4cQB+AJpzcQB+AJEAcHNxAH4AlnVxAH4AdAAAAABzcQB+AJEAcHNxAH4AlnVxAH4AdAAAAABzcQB+AJEAcHNxAH4AlnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AmXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AmXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AtnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4At3NxAH4AqnQAA0FueXNxAH4ArnNxAH4AsXVxAH4AtAAAAAJzcQB+ALZ0AAVzY2FsYXEAfgC9c3EAfgB2cQB+AIN1cQB+AIQAAAAAc3EAfgCGAHQAKmNvbS5hdmFsaWEuYWtrYS53b3Jrc2hvcC5leGFtcGxlLmJhbmsuQmFua3VxAH4AiQAAAAB+cQB+AIt0AAhDbGFzc0RlZnVxAH4AjwAAAABzcQB+AJEAcHNxAH4AlnEAfgCbc3EAfgCRAHBzcQB+AJZzcQB+AJ5zcQB+AJEAcHNxAH4AlnVxAH4AdAAAAABzcQB+AJEAcHNxAH4AlnVxAH4AdAAAAABzcQB+AJEAcHNxAH4AlnVxAH4AqAAAAAZzcQB+AKp0ABRBYnN0cmFjdExvZ2dpbmdBY3RvcnNxAH4ArnNxAH4AsXVxAH4AtAAAAANzcQB+ALZ0AARha2thc3EAfgC2dAAFYWN0b3JxAH4AvXNxAH4AqnQADEFjdG9yTG9nZ2luZ3EAfgDdc3EAfgCqdAANQWJzdHJhY3RBY3RvcnEAfgDdc3EAfgCqdAAFQWN0b3JxAH4A3XNxAH4AqnEAfgCtc3EAfgCuc3EAfgCxdXEAfgC0AAAAA3NxAH4AtnEAfgC5c3EAfgC2cQB+ALtxAH4AvXNxAH4AqnEAfgC/c3EAfgCuc3EAfgCxdXEAfgC0AAAAAnNxAH4AtnEAfgDEcQB+AL11cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0ABhjb20uYXZhbGlhLmFra2Eud29ya3Nob3BzcQB+APd0AA9jb20uYXZhbGlhLmFra2FzcQB+APd0AApjb20uYXZhbGlhc3EAfgD3dAADY29tc3EAfgD3dAAlY29tLmF2YWxpYS5ha2thLndvcmtzaG9wLmV4YW1wbGUuYmFua3NxAH4A93QAIGNvbS5hdmFsaWEuYWtrYS53b3Jrc2hvcC5leGFtcGxlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFSOfseznVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEQvaG9tZS9zeW5lcnppcC9zeW5lcnppcC9ha2thL2Fra2Etd29ya3Nob3AvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIPopvoHjYXTOp4wLmD9HjEMr0tq
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAPWJj4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cOXCY190AAZub3RpZnlzcQB+AAwmQ6uQdAAEd2FpdHNxAH4ADETPwrF0AA0kYXNJbnN0YW5jZU9mc3EAfgAMOWqHQXQABnN5c3RlbXNxAH4ADBE+2O90AAZlcXVhbHNzcQB+AAz3mn9TdAAMYXNJbnN0YW5jZU9mc3EAfgAMdYZ20nQADmV4ZWN1dGlvblN0YXJ0c3EAfgAM1yM8G3QADHN5bmNocm9uaXplZHNxAH4ADG6mpz50AA0kaXNJbnN0YW5jZU9mc3EAfgAMAckroXQABG1haW5zcQB+AAxs2z+/dAAJbm90aWZ5QWxsc3EAfgAMOEESAXQADGlzSW5zdGFuY2VPZnNxAH4ADEtN6oR0AAI9PXNxAH4ADBkxTWR0AAVjbG9uZXNxAH4ADN8mGNl0AA9CYW5rRXhhbXBsZU1haW5zcQB+AAxIqPMVdAAIdG9TdHJpbmdzcQB+AAwrQk14dAAEYXJnc3NxAH4ADFxiNqJ0AAIhPXNxAH4ADHAdod90AAhnZXRDbGFzc3NxAH4ADJMIgFB0AAJuZXNxAH4ADGecXJF0AAJlcXNxAH4ADKa0LJt0AAtkZWxheWVkSW5pdHNxAH4ADGi65OV0AAIjI3NxAH4ADNSTxX90AAhmaW5hbGl6ZXNxAH4ADCdthE10AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ADVjb20uYXZhbGlhLmFra2Eud29ya3Nob3AuZXhhbXBsZS5iYW5rLkJhbmtFeGFtcGxlTWFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGR4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGMAcHNxAH4AaHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGxzcQB+AGMAcHNxAH4AaHVxAH4ARAAAAABzcQB+AGMAcHNxAH4AaHVxAH4ARAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ASnEAfgBTdXEAfgBUAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AeXhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBrdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGtzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJNzcQB+AFYAcQB+ACF1cQB+AFkAAAAAc3EAfgCGdAAEVW5pdHEAfgCMdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AeXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AXHQABVBsYWlucQB+AC9zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIdbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGtzcQB+AIZ0AAVBcnJheXEAfgCMdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AIZ0AAZTdHJpbmdzcQB+AIpzcQB+AI11cQB+AJAAAAADc3EAfgCSdAAEamF2YXNxAH4AknQABGxhbmdxAH4Al3NxAH4AYwBwc3EAfgBodXEAfgCuAAAABHNxAH4AhnQAA0FwcHEAfgCMc3EAfgCGdAALRGVsYXllZEluaXRxAH4AjHNxAH4AhnQABk9iamVjdHEAfgCyc3EAfgCGdAADQW55cQB+AIx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABhjb20uYXZhbGlhLmFra2Eud29ya3Nob3BzcQB+AMZ0AA9jb20uYXZhbGlhLmFra2FzcQB+AMZ0AApjb20uYXZhbGlhc3EAfgDGdAADY29tc3EAfgDGdAAlY29tLmF2YWxpYS5ha2thLndvcmtzaG9wLmV4YW1wbGUuYmFua3NxAH4AxnQAIGNvbS5hdmFsaWEuYWtrYS53b3Jrc2hvcC5leGFtcGxlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFSOfseznVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEQvaG9tZS9zeW5lcnppcC9zeW5lcnppcC9ha2thL2Fra2Etd29ya3Nob3AvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFI4ziJckrCVb3owMvwXvDfNR5pfR
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA0vGyFAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwDVblG3QABHNlbGZzcQB+AAt5oeH5dAAHY29udGV4dHVxAH4ACQAAADtzcQB+AAtEUc49dAAPYXdhaXRGb3JEZXBvc2l0c3EAfgALIf0ULnQABm5vdGlmeXNxAH4AC7PEmXp0AAd1bmFwcGx5c3EAfgAL1/Bk9HQAB2N1cnJpZWRzcQB+AAs7oDkadAAHUmVjZWl2ZXNxAH4AC/yZ0xZ0AAxXaXJlVHJhbnNmZXJzcQB+AAuw3ag7dAAEd2FpdHNxAH4AC+uI+X90AA5jb3B5JGRlZmF1bHQkMnNxAH4AC+zcnDF0AA0kYXNJbnN0YW5jZU9mc3EAfgALTLA8gnQADHByb2R1Y3RBcml0eXNxAH4AC4JHrAV0AAZlcXVhbHNzcQB+AAs1tAX8dAAMYXNJbnN0YW5jZU9mc3EAfgAL5AVFKXQADHN5bmNocm9uaXplZHNxAH4AC1TaR+l0AA0kaXNJbnN0YW5jZU9mc3EAfgAL/7kCiHQAB3JlY2VpdmVzcQB+AAu88omwdAAKcHJlUmVzdGFydHNxAH4AC6mW9tV0AAZ0dXBsZWRzcQB+AAsZea58dAANYXJvdW5kUmVjZWl2ZXNxAH4AC+qYGI90AAhjYW5FcXVhbHNxAH4AC/En4wZ0AAtwb3N0UmVzdGFydHNxAH4ACye7W1x0AAhwb3N0U3RvcHNxAH4AC9JtCCJ0AA1wcm9kdWN0UHJlZml4c3EAfgALxCVwVXQACW5vdGlmeUFsbHNxAH4AC1YchuV0AAtyZWFkUmVzb2x2ZXNxAH4AC05goZx0AAZhbW91bnRzcQB+AAtjvfdLdAACdG9zcQB+AAtPE46WdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAtYkIXGdAAERG9uZXNxAH4AC91rdnd0AAxpc0luc3RhbmNlT2ZzcQB+AAsoaOoidAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC9uGqU10AA5hcm91bmRQb3N0U3RvcHNxAH4AC5K9JwZ0AAY8aW5pdD5zcQB+AAssf+8edAAIcHJlU3RhcnRzcQB+AAsWlAuydAAJdW5oYW5kbGVkc3EAfgALKrlBEHQABWFwcGx5c3EAfgALvD1tt3QAAj09c3EAfgALtzFAznQABWNsb25lc3EAfgALOU+BKnQACFRyYW5zZmVyc3EAfgALYwCdRnQADmNvcHkkZGVmYXVsdCQzc3EAfgAL1Cz3l3QABGNvcHlzcQB+AAtU3QvndAAKZ2V0Q29udGV4dHNxAH4ACyKh6O10AAZzZW5kZXJzcQB+AAsyCJuwdAAIdG9TdHJpbmdzcQB+AAuLwh8OdAACIT1zcQB+AAsHg5YzdAAIZ2V0Q2xhc3NzcQB+AAsWvHyLdAAOY29weSRkZWZhdWx0JDFzcQB+AAstM3TNdAAEZm9ybXNxAH4ACyWlgPF0AAZGYWlsZWRzcQB+AAtdIrBUdAACbmVzcQB+AAsIWNfQdAAQYXdhaXRGb3JXaXRoZHJhd3NxAH4AC+dUDId0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAtxi9JbdAACZXFzcQB+AAstJmLXdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAL8C7zo3QAA2xvZ3NxAH4AC4+gyNV0AAIjI3NxAH4AC3bU5FF0AAhmaW5hbGl6ZXNxAH4AC9zIc/50AA5wcm9kdWN0RWxlbWVudHNxAH4AC2bY1gF0AAhoYXNoQ29kZXNxAH4AC88/+hl0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ADJjb20uYXZhbGlhLmFra2Eud29ya3Nob3AuZXhhbXBsZS5iYW5rLldpcmVUcmFuc2ZlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Aqnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AqQBwc3EAfgCuc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJFMAAlpbmhlcml0ZWRxAH4AkUwAB3BhcmVudHNxAH4AkXhxAH4AsnNxAH4AqQBwc3EAfgCudXEAfgCMAAAAAHNxAH4AqQBwc3EAfgCudXEAfgCMAAAAAHNxAH4AqQBwc3EAfgCudXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCxdAAUQWJzdHJhY3RMb2dnaW5nQWN0b3JzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AM50AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDPc3EAfgDCdAAMQWN0b3JMb2dnaW5ncQB+AMhzcQB+AMJ0AA1BYnN0cmFjdEFjdG9ycQB+AMhzcQB+AMJ0AAVBY3RvcnEAfgDIc3EAfgDCdAAGT2JqZWN0c3EAfgDGc3EAfgDJdXEAfgDMAAAAA3NxAH4AznQABGphdmFzcQB+AM50AARsYW5ncQB+ANVzcQB+AMJ0AANBbnlzcQB+AMZzcQB+AMl1cQB+AMwAAAACc3EAfgDOdAAFc2NhbGFxAH4A1XNxAH4AjnEAfgCbdXEAfgCcAAAAAHNxAH4AngB0ADJjb20uYXZhbGlhLmFra2Eud29ya3Nob3AuZXhhbXBsZS5iYW5rLldpcmVUcmFuc2ZlcnVxAH4AoQAAAAB+cQB+AKN0AAZNb2R1bGV1cQB+AKcAAAAAc3EAfgCpAHBzcQB+AK5xAH4As3NxAH4AqQBwc3EAfgCuc3EAfgC2c3EAfgCpAHBzcQB+AK51cQB+AIwAAAAAc3EAfgCpAHBzcQB+AK51cQB+AIwAAAAAc3EAfgCpAHBzcQB+AK51cQB+AMAAAAACc3EAfgDCcQB+AN1zcQB+AMZzcQB+AMl1cQB+AMwAAAADc3EAfgDOcQB+AOJzcQB+AM5xAH4A5HEAfgDVc3EAfgDCcQB+AOZzcQB+AMZzcQB+AMl1cQB+AMwAAAACc3EAfgDOcQB+AOtxAH4A1XVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAGc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAGGNvbS5hdmFsaWEuYWtrYS53b3Jrc2hvcHNxAH4BD3QAD2NvbS5hdmFsaWEuYWtrYXNxAH4BD3QACmNvbS5hdmFsaWFzcQB+AQ90AANjb21zcQB+AQ90ACVjb20uYXZhbGlhLmFra2Eud29ya3Nob3AuZXhhbXBsZS5iYW5rc3EAfgEPdAAgY29tLmF2YWxpYS5ha2thLndvcmtzaG9wLmV4YW1wbGVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVI5+x7OdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQARC9ob21lL3N5bmVyemlwL3N5bmVyemlwL2Fra2EvYWtrYS13b3Jrc2hvcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU8dC76bd4dfGjQeTbNCUDXZZxehg=
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCcLlsJAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwk7YWxnQABHNlbGZzcQB+AAuxNXA2dAAHY29udGV4dHVxAH4ACQAAADdzcQB+AAtay4qKdAAGbm90aWZ5c3EAfgAL7WBiznQAB3VuYXBwbHlzcQB+AAuQU1LKdAAHY3VycmllZHNxAH4AC1c3SL10AAdSZWNlaXZlc3EAfgAL82GlBHQACGNoaWxkcmVuc3EAfgALHZ0ZGHQABHdhaXRzcQB+AAtEsVTwdAAOY29weSRkZWZhdWx0JDJzcQB+AAvwgPpmdAANJGFzSW5zdGFuY2VPZnNxAH4ACy7RiS90AAxwcm9kdWN0QXJpdHlzcQB+AAvYx80+dAADdXJsc3EAfgAL5DQvJHQABmVxdWFsc3NxAH4AC85GceZ0AAxhc0luc3RhbmNlT2ZzcQB+AAsYO46IdAAMc3luY2hyb25pemVkc3EAfgALNOltZnQADSRpc0luc3RhbmNlT2ZzcQB+AAs3ix8BdAAHcmVjZWl2ZXNxAH4AC8GvsNN0AApwcmVSZXN0YXJ0c3EAfgALInV5V3QABnR1cGxlZHNxAH4ACwXQOpV0AA1hcm91bmRSZWNlaXZlc3EAfgALBJ7X4HQACGNhbkVxdWFsc3EAfgALLHslYHQAC3Bvc3RSZXN0YXJ0c3EAfgALfarzaXQACHBvc3RTdG9wc3EAfgAL0ni3IXQADXByb2R1Y3RQcmVmaXhzcQB+AAu/UGOxdAAJbm90aWZ5QWxsc3EAfgALPNqeQXQAC3JlYWRSZXNvbHZlc3EAfgALp+ad2XQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALalHi63QABWNhY2hlc3EAfgALqDEfMHQADGlzSW5zdGFuY2VPZnNxAH4ACxV7hLh0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALpXfEw3QADmFyb3VuZFBvc3RTdG9wc3EAfgALvYo/1nQABjxpbml0PnNxAH4AC2gLmbh0AApDb250cm9sbGVyc3EAfgALA2iNn3QACHByZVN0YXJ0c3EAfgALP0z2ynQACXVuaGFuZGxlZHNxAH4AC4HBowJ0AAVhcHBseXNxAH4ACz/UmRJ0AAI9PXNxAH4ACwrcVM50AAVjbG9uZXNxAH4AC22d24h0AARjb3B5c3EAfgALCFpEQHQACmdldENvbnRleHRzcQB+AAumaDhVdAAGc2VuZGVyc3EAfgALgbg+GnQACHRvU3RyaW5nc3EAfgALE+JLfXQABWRlcHRoc3EAfgALwYcnLHQAAiE9c3EAfgALwzBdbHQACGdldENsYXNzc3EAfgALPuAj2HQADmNvcHkkZGVmYXVsdCQxc3EAfgALkbBf6HQAAm5lc3EAfgALwDICCHQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4ACwCUQP50AAJlcXNxAH4AC0/oGRV0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAu4HY8+dAAFQ2hlY2tzcQB+AAv6+FUCdAADbG9nc3EAfgALB1Aa2nQAAiMjc3EAfgALfdIAC3QACGZpbmFsaXplc3EAfgALiIWclHQADnByb2R1Y3RFbGVtZW50c3EAfgALH8NDKHQACGhhc2hDb2Rlc3EAfgALxiGcD3QADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AiXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAL2NvbS5hdmFsaWEuYWtrYS53b3Jrc2hvcC5leGFtcGxlLndlYi5Db250cm9sbGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Aonhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AoQBwc3EAfgCmc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AIlMAAlpbmhlcml0ZWRxAH4AiUwAB3BhcmVudHNxAH4AiXhxAH4AqnNxAH4AoQBwc3EAfgCmdXEAfgCEAAAAAHNxAH4AoQBwc3EAfgCmdXEAfgCEAAAAAHNxAH4AoQBwc3EAfgCmdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCpdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgDGdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDHc3EAfgC6dAADQW55c3EAfgC+c3EAfgDBdXEAfgDEAAAAAnNxAH4AxnQABXNjYWxhcQB+AM1zcQB+AIZxAH4Ak3VxAH4AlAAAAABzcQB+AJYAdAAvY29tLmF2YWxpYS5ha2thLndvcmtzaG9wLmV4YW1wbGUud2ViLkNvbnRyb2xsZXJ1cQB+AJkAAAAAfnEAfgCbdAAIQ2xhc3NEZWZ1cQB+AJ8AAAAAc3EAfgChAHBzcQB+AKZxAH4Aq3NxAH4AoQBwc3EAfgCmc3EAfgCuc3EAfgChAHBzcQB+AKZ1cQB+AIQAAAAAc3EAfgChAHBzcQB+AKZ1cQB+AIQAAAAAc3EAfgChAHBzcQB+AKZ1cQB+ALgAAAAGc3EAfgC6dAAUQWJzdHJhY3RMb2dnaW5nQWN0b3JzcQB+AL5zcQB+AMF1cQB+AMQAAAADc3EAfgDGdAAEYWtrYXNxAH4AxnQABWFjdG9ycQB+AM1zcQB+ALp0AAxBY3RvckxvZ2dpbmdxAH4A7XNxAH4AunQADUFic3RyYWN0QWN0b3JxAH4A7XNxAH4AunQABUFjdG9ycQB+AO1zcQB+ALpxAH4AvXNxAH4AvnNxAH4AwXVxAH4AxAAAAANzcQB+AMZxAH4AyXNxAH4AxnEAfgDLcQB+AM1zcQB+ALpxAH4Az3NxAH4AvnNxAH4AwXVxAH4AxAAAAAJzcQB+AMZxAH4A1HEAfgDNdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAZzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAYY29tLmF2YWxpYS5ha2thLndvcmtzaG9wc3EAfgEHdAAPY29tLmF2YWxpYS5ha2thc3EAfgEHdAAKY29tLmF2YWxpYXNxAH4BB3QAA2NvbXNxAH4BB3QAJGNvbS5hdmFsaWEuYWtrYS53b3Jrc2hvcC5leGFtcGxlLndlYnNxAH4BB3QAIGNvbS5hdmFsaWEuYWtrYS53b3Jrc2hvcC5leGFtcGxlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFSOfseznVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEQvaG9tZS9zeW5lcnppcC9zeW5lcnppcC9ha2thL2Fra2Etd29ya3Nob3AvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFF/PoxoLe8uT9ftpuNMqFvHdDhUO
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBY/wS1AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwHCNEcHQABHNlbGZzcQB+AAtJO6TldAAEZXhlY3NxAH4ACxeQR+N0AAdjb250ZXh0dXEAfgAJAAAAL3NxAH4AC/bCgyh0AAZub3RpZnlzcQB+AAtcTtRLdAAHUmVjZWl2ZXNxAH4AC6j7IxB0AAR3YWl0c3EAfgAL4bEH+HQADSRhc0luc3RhbmNlT2ZzcQB+AAuB3UP4dAAGZnV0dXJlc3EAfgALqqIaIHQADHByb2R1Y3RBcml0eXNxAH4ACzqLXx50AAZlcXVhbHNzcQB+AAsex2Z8dAAMYXNJbnN0YW5jZU9mc3EAfgALaaUx03QADHN5bmNocm9uaXplZHNxAH4ACzS1kbN0AA0kaXNJbnN0YW5jZU9mc3EAfgALf5nne3QAB3JlY2VpdmVzcQB+AAvkd9PfdAAKcHJlUmVzdGFydHNxAH4ACy94YtZ0AA1hcm91bmRSZWNlaXZlc3EAfgALEQFOfHQACGNhbkVxdWFsc3EAfgALgKyRBnQAC3Bvc3RSZXN0YXJ0c3EAfgALXMJGRXQACHBvc3RTdG9wc3EAfgALbYUQk3QADXByb2R1Y3RQcmVmaXhzcQB+AAumlEqEdAAEc3RvcHNxAH4AC8hnIZV0AAlub3RpZnlBbGxzcQB+AAvWnv4AdAALcmVhZFJlc29sdmVzcQB+AAvqJLHbdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAu3lAlYdAAERG9uZXNxAH4ACx8LD3l0AAxpc0luc3RhbmNlT2ZzcQB+AAtac6XddAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC1XS1b10AA5hcm91bmRQb3N0U3RvcHNxAH4AC333R1Z0AAY8aW5pdD5zcQB+AAsClKUZdAAIcHJlU3RhcnRzcQB+AAvYlkkPdAAGR2V0dGVyc3EAfgALL+w09nQACXVuaGFuZGxlZHNxAH4AC8/eVkp0AAI9PXNxAH4AC90Daa90AAVjbG9uZXNxAH4AC5rtX210AApnZXRDb250ZXh0c3EAfgAL29zI0HQABnNlbmRlcnNxAH4AC2B+m4J0AAh0b1N0cmluZ3NxAH4ACz9FEml0AAIhPXNxAH4ACzfn6pl0AAhnZXRDbGFzc3NxAH4AC57gZXV0AAJuZXNxAH4AC8mIROp0AAhnZXRMaW5rc3NxAH4AC7aowwp0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAtOLTaPdAACZXFzcQB+AAuvSUondAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALjCOObHQAA2xvZ3NxAH4AC27UFT90AAIjI3NxAH4ACysjhi50AAhmaW5hbGl6ZXNxAH4AC7I/UKZ0AA5wcm9kdWN0RWxlbWVudHNxAH4AC7KnGyx0AAhoYXNoQ29kZXNxAH4AC7rHRrZ0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AHt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACtjb20uYXZhbGlhLmFra2Eud29ya3Nob3AuZXhhbXBsZS53ZWIuR2V0dGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCUeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCTAHBzcQB+AJhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ae0wACWluaGVyaXRlZHEAfgB7TAAHcGFyZW50c3EAfgB7eHEAfgCcc3EAfgCTAHBzcQB+AJh1cQB+AHYAAAAAc3EAfgCTAHBzcQB+AJh1cQB+AHYAAAAAc3EAfgCTAHBzcQB+AJh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJt0ABRBYnN0cmFjdExvZ2dpbmdBY3RvcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Am3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEYWtrYXNxAH4AuHQABWFjdG9yc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ALlzcQB+AKx0AAxBY3RvckxvZ2dpbmdxAH4AsnNxAH4ArHQADUFic3RyYWN0QWN0b3JxAH4AsnNxAH4ArHQABUFjdG9ycQB+ALJzcQB+AKx0AAZPYmplY3RzcQB+ALBzcQB+ALN1cQB+ALYAAAADc3EAfgC4dAAEamF2YXNxAH4AuHQABGxhbmdxAH4Av3NxAH4ArHQAA0FueXNxAH4AsHNxAH4As3VxAH4AtgAAAAJzcQB+ALh0AAVzY2FsYXEAfgC/c3EAfgB4cQB+AIV1cQB+AIYAAAAAc3EAfgCIAHQAK2NvbS5hdmFsaWEuYWtrYS53b3Jrc2hvcC5leGFtcGxlLndlYi5HZXR0ZXJ1cQB+AIsAAAAAfnEAfgCNdAAGTW9kdWxldXEAfgCRAAAAAHNxAH4AkwBwc3EAfgCYcQB+AJ1zcQB+AJMAcHNxAH4AmHNxAH4AoHNxAH4AkwBwc3EAfgCYdXEAfgB2AAAAAHNxAH4AkwBwc3EAfgCYdXEAfgB2AAAAAHNxAH4AkwBwc3EAfgCYdXEAfgCqAAAAAnNxAH4ArHEAfgDHc3EAfgCwc3EAfgCzdXEAfgC2AAAAA3NxAH4AuHEAfgDMc3EAfgC4cQB+AM5xAH4Av3NxAH4ArHEAfgDQc3EAfgCwc3EAfgCzdXEAfgC2AAAAAnNxAH4AuHEAfgDVcQB+AL91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0ABhjb20uYXZhbGlhLmFra2Eud29ya3Nob3BzcQB+APl0AA9jb20uYXZhbGlhLmFra2FzcQB+APl0AApjb20uYXZhbGlhc3EAfgD5dAADY29tc3EAfgD5dAAkY29tLmF2YWxpYS5ha2thLndvcmtzaG9wLmV4YW1wbGUud2Vic3EAfgD5dAAgY29tLmF2YWxpYS5ha2thLndvcmtzaG9wLmV4YW1wbGVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVI5+x7OdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQARC9ob21lL3N5bmVyemlwL3N5bmVyemlwL2Fra2EvYWtrYS13b3Jrc2hvcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUl14Qk3Rre18HOJ0JQuQ4sxLbTDY=
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAAaLIEAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAMXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cORgwoJ0AAZub3RpZnlzcQB+AAxnpxq9dAAHdW5hcHBseXNxAH4ADIB2oLp0AA9wcmludFN0YWNrVHJhY2VzcQB+AAxu21v5dAATZ2V0TG9jYWxpemVkTWVzc2FnZXNxAH4ADMttJlh0AAR3YWl0c3EAfgAMGoxSr3QADSRhc0luc3RhbmNlT2ZzcQB+AAyYLgpcdAAHY29tcG9zZXNxAH4ADPgiQ5F0AAxwcm9kdWN0QXJpdHlzcQB+AAzrQKsYdAAGZXF1YWxzc3EAfgAMZa37yHQADWdldFN0YXR1c0NvZGVzcQB+AAwaeprZdAAQZmlsbEluU3RhY2tUcmFjZXNxAH4ADLxEKfx0AAlpbml0Q2F1c2VzcQB+AAyv3lnSdAAMYXNJbnN0YW5jZU9mc3EAfgAMSdu1xHQADHN5bmNocm9uaXplZHNxAH4ADCtRGxF0AA0kaXNJbnN0YW5jZU9mc3EAfgAMcvHzlHQAB2FuZFRoZW5zcQB+AAx0iOz7dAAIZ2V0Q2F1c2VzcQB+AAzCkxv+dAAIY2FuRXF1YWxzcQB+AAzVZUizdAANcHJvZHVjdFByZWZpeHNxAH4ADAYAR0V0AAlub3RpZnlBbGxzcQB+AAzxD5NUdAALcmVhZFJlc29sdmVzcQB+AAy+yyafdAAMaXNJbnN0YW5jZU9mc3EAfgAMvJqtdXQADWdldFN0YWNrVHJhY2VzcQB+AAydraIqdAAUZ2V0U3RhY2tUcmFjZUVsZW1lbnRzcQB+AAy9ZQ1DdAAGPGluaXQ+c3EAfgAMa0QUsnQACmdldE1lc3NhZ2VzcQB+AAx0CVd8dAANc2V0U3RhY2tUcmFjZXNxAH4ADN8p+Bt0AAVhcHBseXNxAH4ADIb20kd0AA1nZXRTdXBwcmVzc2Vkc3EAfgAMfJzbcXQAAj09c3EAfgAMCj+epHQAEmdldFN0YWNrVHJhY2VEZXB0aHNxAH4ADMhnskZ0AAVjbG9uZXNxAH4ADDRYPY50AAZjbGllbnRzcQB+AAzUBlyYdAANYWRkU3VwcHJlc3NlZHNxAH4ADPnqC4R0AAlXZWJDbGllbnRzcQB+AAwDKlSidAAJQmFkU3RhdHVzc3EAfgAMMrwU7nQABGNvcHlzcQB+AAxVGdvCdAAIdG9TdHJpbmdzcQB+AAxs9+z1dAACIT1zcQB+AAxXAIMTdAADZ2V0c3EAfgAMDo5J4HQACGdldENsYXNzc3EAfgAM7BhWx3QADmNvcHkkZGVmYXVsdCQxc3EAfgAM86AfjHQAAm5lc3EAfgAMpwhCq3QAAmVxc3EAfgAM1PfsXXQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADBUziQB0AAIjI3NxAH4ADJ9qS7N0AAhmaW5hbGl6ZXNxAH4ADAODGzV0AA5wcm9kdWN0RWxlbWVudHNxAH4ADNt6SuZ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AHl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AC5jb20uYXZhbGlhLmFra2Eud29ya3Nob3AuZXhhbXBsZS53ZWIuV2ViQ2xpZW50dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Aknhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AkQBwc3EAfgCWc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHlMAAlpbmhlcml0ZWRxAH4AeUwAB3BhcmVudHNxAH4AeXhxAH4AmnNxAH4AkQBwc3EAfgCWdXEAfgB0AAAAAHNxAH4AkQBwc3EAfgCWdXEAfgB0AAAAAHNxAH4AkQBwc3EAfgCWdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCZdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCZc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgC2dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC3c3EAfgCqdAADQW55c3EAfgCuc3EAfgCxdXEAfgC0AAAAAnNxAH4AtnQABXNjYWxhcQB+AL11cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABhjb20uYXZhbGlhLmFra2Eud29ya3Nob3BzcQB+AMd0AA9jb20uYXZhbGlhLmFra2FzcQB+AMd0AApjb20uYXZhbGlhc3EAfgDHdAADY29tc3EAfgDHdAAkY29tLmF2YWxpYS5ha2thLndvcmtzaG9wLmV4YW1wbGUud2Vic3EAfgDHdAAgY29tLmF2YWxpYS5ha2thLndvcmtzaG9wLmV4YW1wbGVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVI5+x7OdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARC9ob21lL3N5bmVyemlwL3N5bmVyemlwL2Fra2EvYWtrYS13b3Jrc2hvcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUq0yMRdCYqrF3dr0YaQMktMHv9RU=
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBa52dGAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJ7vyMd0AAZub3RpZnlzcQB+AAyNRsvddAAEd2FpdHNxAH4ADJLjHMl0AA0kYXNJbnN0YW5jZU9mc3EAfgAMeq4bB3QAB1dlYk1haW5zcQB+AAyQOUQGdAAGZXF1YWxzc3EAfgAM3NkfgXQADGFzSW5zdGFuY2VPZnNxAH4ADMbuzkZ0AA5leGVjdXRpb25TdGFydHNxAH4ADLeQ3L90AAxzeW5jaHJvbml6ZWRzcQB+AAxY//YXdAANJGlzSW5zdGFuY2VPZnNxAH4ADL3PvCh0AARtYWluc3EAfgAMwRTC0nQACW5vdGlmeUFsbHNxAH4ADEcNTet0AAxpc0luc3RhbmNlT2ZzcQB+AAzWkKwMdAAGPGluaXQ+c3EAfgAMkir6rnQAAj09c3EAfgAMSf0SeHQABWNsb25lc3EAfgAMlmRf/HQACHRvU3RyaW5nc3EAfgAMZjto1HQABGFyZ3NzcQB+AAwt4BRndAACIT1zcQB+AAz7K6A+dAAIZ2V0Q2xhc3NzcQB+AAzHliJRdAACbmVzcQB+AAyc3i9xdAACZXFzcQB+AAxNuy6vdAALZGVsYXllZEluaXRzcQB+AAxv+4vtdAACIyNzcQB+AAzgOmrQdAAIZmluYWxpemVzcQB+AAxy98UsdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAsY29tLmF2YWxpYS5ha2thLndvcmtzaG9wLmV4YW1wbGUud2ViLldlYk1haW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGR4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGMAcHNxAH4AaHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGxzcQB+AGMAcHNxAH4AaHVxAH4ARAAAAABzcQB+AGMAcHNxAH4AaHVxAH4ARAAAAABzcQB+AGMAcHNxAH4AaHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Aa3QAA0FwcHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Aa3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AiXNxAH4AfHQAC0RlbGF5ZWRJbml0cQB+AIJzcQB+AHx0AAZPYmplY3RzcQB+AIBzcQB+AIN1cQB+AIYAAAADc3EAfgCIdAAEamF2YXNxAH4AiHQABGxhbmdxAH4AjXNxAH4AfHQAA0FueXEAfgCCdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAZzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAYY29tLmF2YWxpYS5ha2thLndvcmtzaG9wc3EAfgCddAAPY29tLmF2YWxpYS5ha2thc3EAfgCddAAKY29tLmF2YWxpYXNxAH4AnXQAA2NvbXNxAH4AnXQAJGNvbS5hdmFsaWEuYWtrYS53b3Jrc2hvcC5leGFtcGxlLndlYnNxAH4AnXQAIGNvbS5hdmFsaWEuYWtrYS53b3Jrc2hvcC5leGFtcGxlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFSOfseznVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEQvaG9tZS9zeW5lcnppcC9zeW5lcnppcC9ha2thL2Fra2Etd29ya3Nob3AvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFD9AL2lZJivfZfCYUT83HGQD0cRB
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAiRjXhAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJyj7id0AAZub3RpZnlzcQB+AAy7Lrh2dAAEd2FpdHNxAH4ADERyjFp0AA0kYXNJbnN0YW5jZU9mc3EAfgAMyxd4N3QABnN5c3RlbXNxAH4ADP2PMqR0AAZlcXVhbHNzcQB+AAwGRSrzdAAMYXNJbnN0YW5jZU9mc3EAfgAMeSd9InQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMoDdb6XQADHN5bmNocm9uaXplZHNxAH4ADFJadq90AA0kaXNJbnN0YW5jZU9mc3EAfgAM7xQLYXQABG1haW5zcQB+AAzUISuodAAJbm90aWZ5QWxsc3EAfgAMZVUlynQADGlzSW5zdGFuY2VPZnNxAH4ADMfquQ10AAI9PXNxAH4ADOMeVr50AA9BcHBsaWNhdGlvbk1haW5zcQB+AAxhfWXBdAAFY2xvbmVzcQB+AAw4wqfHdAAIdG9TdHJpbmdzcQB+AAxryeymdAAEYXJnc3NxAH4ADMxy+Gh0AAIhPXNxAH4ADCyjYZN0AAhnZXRDbGFzc3NxAH4ADJdfvtR0AAJuZXNxAH4ADLhYoMJ0AAlwaW5nQWN0b3JzcQB+AAwHhArUdAACZXFzcQB+AAzaKTakdAALZGVsYXllZEluaXRzcQB+AAw8wRE1dAACIyNzcQB+AAxwngIOdAAIZmluYWxpemVzcQB+AAxLNx2UdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBLeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAbY29tLmV4YW1wbGUuQXBwbGljYXRpb25NYWludXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AZnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZQBwc3EAfgBqc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AbnNxAH4AZQBwc3EAfgBqdXEAfgBGAAAAAHNxAH4AZQBwc3EAfgBqdXEAfgBGAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBMcQB+AFV1cQB+AFYAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgB7eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG10ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AbXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AlXNxAH4AWABxAH4AIXVxAH4AWwAAAABzcQB+AIh0AARVbml0cQB+AI51cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB7eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBedAAFUGxhaW5xAH4AL3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AiVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AbXNxAH4AiHQABUFycmF5cQB+AI51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AiHQABlN0cmluZ3NxAH4AjHNxAH4Aj3VxAH4AkgAAAANzcQB+AJR0AARqYXZhc3EAfgCUdAAEbGFuZ3EAfgCZc3EAfgBlAHBzcQB+AGp1cQB+ALAAAAAEc3EAfgCIdAADQXBwcQB+AI5zcQB+AIh0AAtEZWxheWVkSW5pdHEAfgCOc3EAfgCIdAAGT2JqZWN0cQB+ALRzcQB+AIh0AANBbnlxAH4AjnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC2NvbS5leGFtcGxlc3EAfgDIdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFSOfseznVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEQvaG9tZS9zeW5lcnppcC9zeW5lcnppcC9ha2thL2Fra2Etd29ya3Nob3AvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNfPTRwQC+Vyk5WRR+gTCvv8lqKn
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCw5eiTAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwmhetz3QABHNlbGZzcQB+AAtqUUiEdAAHY29udGV4dHVxAH4ACQAAADZzcQB+AAusLkxxdAAGbm90aWZ5c3EAfgALC1uMinQAB3VuYXBwbHlzcQB+AAsY/eVGdAAHUmVjZWl2ZXNxAH4AC269Pfp0AAtQaW5nTWVzc2FnZXNxAH4AC6XJsdN0AAR3YWl0c3EAfgALlGkmfXQADSRhc0luc3RhbmNlT2ZzcQB+AAuOA+KpdAAHY29tcG9zZXNxAH4AC+FJ7dd0AAxwcm9kdWN0QXJpdHlzcQB+AAuX6ehhdAAGZXF1YWxzc3EAfgAL/5ZyDnQADGFzSW5zdGFuY2VPZnNxAH4AC2vQEA50AAxzeW5jaHJvbml6ZWRzcQB+AAvRx420dAANJGlzSW5zdGFuY2VPZnNxAH4AC/Fzk590AAdhbmRUaGVuc3EAfgALQiK8FnQAB3JlY2VpdmVzcQB+AAsBS6KddAAKcHJlUmVzdGFydHNxAH4ACyYuh8l0AA1hcm91bmRSZWNlaXZlc3EAfgALY4cX83QABHRleHRzcQB+AAuHcD3mdAAIY2FuRXF1YWxzcQB+AAuFBUxadAALcG9zdFJlc3RhcnRzcQB+AAsFNiModAAIcG9zdFN0b3BzcQB+AAtl4p9FdAANcHJvZHVjdFByZWZpeHNxAH4ACxre2Y50AAlub3RpZnlBbGxzcQB+AAuEzyvFdAALcmVhZFJlc29sdmVzcQB+AAsRwZv6dAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAtE3wO5dAAMaXNJbnN0YW5jZU9mc3EAfgALNinu8HQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAttOktddAAOYXJvdW5kUG9zdFN0b3BzcQB+AAuxOl1ndAAKSW5pdGlhbGl6ZXNxAH4ACyh2wSJ0AAY8aW5pdD5zcQB+AAvo9zM8dAAIcHJlU3RhcnRzcQB+AAt6RFxOdAAJdW5oYW5kbGVkc3EAfgAL7+AYb3QABWFwcGx5c3EAfgALMbcDA3QACVBpbmdBY3RvcnNxAH4AC4BSHsR0AAI9PXNxAH4AC96zIOp0AAVjbG9uZXNxAH4AC/gmU8t0AARjb3B5c3EAfgALWinWMXQABnNlbmRlcnNxAH4AC0+QbVZ0AAdjb3VudGVyc3EAfgALif+LXnQACHRvU3RyaW5nc3EAfgALhi10VXQAAiE9c3EAfgALDDJRhXQACGdldENsYXNzc3EAfgALrgUE4HQADmNvcHkkZGVmYXVsdCQxc3EAfgALk2gxiXQABXByb3Bzc3EAfgALDybIE3QAAm5lc3EAfgALF7GFL3QACXBvbmdBY3RvcnNxAH4AC6BD8mR0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAsdoUmadAACZXFzcQB+AAuXTjNGdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAL7TMMqnQAA2xvZ3NxAH4AC6xHpfV0AAIjI3NxAH4AC564u2V0AAhmaW5hbGl6ZXNxAH4AC3GF2090AA5wcm9kdWN0RWxlbWVudHNxAH4AC8Ae9+d0AAhoYXNoQ29kZXNxAH4AC6eElKN0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AId4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABVjb20uZXhhbXBsZS5QaW5nQWN0b3J1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AKB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJ8AcHNxAH4ApHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCHTAAJaW5oZXJpdGVkcQB+AIdMAAdwYXJlbnRzcQB+AId4cQB+AKhzcQB+AJ8AcHNxAH4ApHVxAH4AggAAAABzcQB+AJ8AcHNxAH4ApHVxAH4AggAAAABzcQB+AJ8AcHNxAH4ApHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ap3QADEFjdG9yTG9nZ2luZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ap3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEYWtrYXNxAH4AxHQABWFjdG9yc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AMVzcQB+ALh0AAVBY3RvcnEAfgC+c3EAfgC4dAAGT2JqZWN0c3EAfgC8c3EAfgC/dXEAfgDCAAAAA3NxAH4AxHQABGphdmFzcQB+AMR0AARsYW5ncQB+AMtzcQB+ALh0AANBbnlzcQB+ALxzcQB+AL91cQB+AMIAAAACc3EAfgDEdAAFc2NhbGFxAH4Ay3NxAH4AhHEAfgCRdXEAfgCSAAAAAHNxAH4AlAB0ABVjb20uZXhhbXBsZS5QaW5nQWN0b3J1cQB+AJcAAAAAfnEAfgCZdAAGTW9kdWxldXEAfgCdAAAAAHNxAH4AnwBwc3EAfgCkcQB+AKlzcQB+AJ8AcHNxAH4ApHNxAH4ArHNxAH4AnwBwc3EAfgCkdXEAfgCCAAAAAHNxAH4AnwBwc3EAfgCkdXEAfgCCAAAAAHNxAH4AnwBwc3EAfgCkdXEAfgC2AAAAAnNxAH4AuHEAfgDPc3EAfgC8c3EAfgC/dXEAfgDCAAAAA3NxAH4AxHEAfgDUc3EAfgDEcQB+ANZxAH4Ay3NxAH4AuHEAfgDYc3EAfgC8c3EAfgC/dXEAfgDCAAAAAnNxAH4AxHEAfgDdcQB+AMt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAtjb20uZXhhbXBsZXNxAH4BAXQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUjn7Hs51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABEL2hvbWUvc3luZXJ6aXAvc3luZXJ6aXAvYWtrYS9ha2thLXdvcmtzaG9wL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSC2TXjkbDWtqe3zFODsCTSY+FqnQ==
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCROaT+AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyJ1KInQABHNlbGZzcQB+AAuJA9BpdAAHY29udGV4dHVxAH4ACQAAADNzcQB+AAtsBzmhdAAGbm90aWZ5c3EAfgALUBjzzXQAB3VuYXBwbHlzcQB+AAsQ8PfxdAAHUmVjZWl2ZXNxAH4AC8UK9T50AAR3YWl0c3EAfgALf5i253QADSRhc0luc3RhbmNlT2ZzcQB+AAv2qnRadAAHY29tcG9zZXNxAH4AC4CJ1Xl0AAxwcm9kdWN0QXJpdHlzcQB+AAtjCTY7dAAGZXF1YWxzc3EAfgALroRyXnQAC1BvbmdNZXNzYWdlc3EAfgALEfvH3XQADGFzSW5zdGFuY2VPZnNxAH4AC87F6zV0AAxzeW5jaHJvbml6ZWRzcQB+AAs3chU8dAANJGlzSW5zdGFuY2VPZnNxAH4AC8iNhjV0AAdhbmRUaGVuc3EAfgALTx2nFXQAB3JlY2VpdmVzcQB+AAsIAZaldAAKcHJlUmVzdGFydHNxAH4ACwYs7nB0AA1hcm91bmRSZWNlaXZlc3EAfgALoM3JmnQABHRleHRzcQB+AAsLZI8kdAAIY2FuRXF1YWxzcQB+AAtnCJSpdAALcG9zdFJlc3RhcnRzcQB+AAuz1YbLdAAIcG9zdFN0b3BzcQB+AAtnTWqXdAANcHJvZHVjdFByZWZpeHNxAH4AC5Er+PZ0AAlub3RpZnlBbGxzcQB+AAuVl/AwdAALcmVhZFJlc29sdmVzcQB+AAuqCgBpdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAthDukWdAAMaXNJbnN0YW5jZU9mc3EAfgAL4Lo4QXQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAuwcsRTdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAvHoRmLdAAGPGluaXQ+c3EAfgALhKPQpHQACHByZVN0YXJ0c3EAfgALJd6c6nQACXVuaGFuZGxlZHNxAH4ACw4US4V0AAVhcHBseXNxAH4AC8JKIFF0AAI9PXNxAH4AC7TWyTJ0AAVjbG9uZXNxAH4ACysFNF50AARjb3B5c3EAfgAL36WjM3QABnNlbmRlcnNxAH4AC4nH4NF0AAh0b1N0cmluZ3NxAH4AC9khYVl0AAIhPXNxAH4ACwwbw010AAhnZXRDbGFzc3NxAH4ACxVLSRZ0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC55Tadl0AAVwcm9wc3NxAH4ACyd1NMl0AAlQb25nQWN0b3JzcQB+AAs+IaRidAACbmVzcQB+AAtWzbsIdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgAL71NRZ3QAAmVxc3EAfgAL+b5b+XQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ACyWss6h0AANsb2dzcQB+AAst5AnjdAACIyNzcQB+AAvgDIY8dAAIZmluYWxpemVzcQB+AAuQfzpsdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAsVTIkcdAAIaGFzaENvZGVzcQB+AAsj++2hdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAVY29tLmV4YW1wbGUuUG9uZ0FjdG9ydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCaeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCZAHBzcQB+AJ5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AgUwACWluaGVyaXRlZHEAfgCBTAAHcGFyZW50c3EAfgCBeHEAfgCic3EAfgCZAHBzcQB+AJ51cQB+AHwAAAAAc3EAfgCZAHBzcQB+AJ51cQB+AHwAAAAAc3EAfgCZAHBzcQB+AJ51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKF0AAxBY3RvckxvZ2dpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AKFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AL50AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC/c3EAfgCydAAFQWN0b3JxAH4AuHNxAH4AsnQABk9iamVjdHNxAH4AtnNxAH4AuXVxAH4AvAAAAANzcQB+AL50AARqYXZhc3EAfgC+dAAEbGFuZ3EAfgDFc3EAfgCydAADQW55c3EAfgC2c3EAfgC5dXEAfgC8AAAAAnNxAH4AvnQABXNjYWxhcQB+AMVzcQB+AH5xAH4Ai3VxAH4AjAAAAABzcQB+AI4AdAAVY29tLmV4YW1wbGUuUG9uZ0FjdG9ydXEAfgCRAAAAAH5xAH4Ak3QABk1vZHVsZXVxAH4AlwAAAABzcQB+AJkAcHNxAH4AnnEAfgCjc3EAfgCZAHBzcQB+AJ5zcQB+AKZzcQB+AJkAcHNxAH4AnnVxAH4AfAAAAABzcQB+AJkAcHNxAH4AnnVxAH4AfAAAAABzcQB+AJkAcHNxAH4AnnVxAH4AsAAAAAJzcQB+ALJxAH4AyXNxAH4AtnNxAH4AuXVxAH4AvAAAAANzcQB+AL5xAH4AznNxAH4AvnEAfgDQcQB+AMVzcQB+ALJxAH4A0nNxAH4AtnNxAH4AuXVxAH4AvAAAAAJzcQB+AL5xAH4A13EAfgDFdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAALY29tLmV4YW1wbGVzcQB+APt0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVI5+x7OdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQARC9ob21lL3N5bmVyemlwL3N5bmVyemlwL2Fra2EvYWtrYS13b3Jrc2hvcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU24vwX3UtwG7ZvgWLDtEjqnv3CPo=
+external apis:
+0 items
+source infos:
+11 items
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Account.scala -> 
+AAAAAAAAAAA=
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/Bank.scala -> 
+AAAAAAAAAAA=
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/BankExampleMain.scala -> 
+AAAAAAAAAAA=
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/bank/WireTransfer.scala -> 
+AAAAAAAAAAA=
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Controller.scala -> 
+AAAAAAAAAAA=
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/Getter.scala -> 
+AAAAAAAAAAA=
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebClient.scala -> 
+AAAAAAAAAAA=
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/avalia/akka/workshop/example/web/WebMain.scala -> 
+AAAAAAAAAAA=
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/ApplicationMain.scala -> 
+AAAAAAAAAAA=
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PingActor.scala -> 
+AAAAAAAAAAA=
+/home/synerzip/synerzip/akka/akka-workshop/src/main/scala/com/example/PongActor.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUjSBRPp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARC9ob21lL3N5bmVyemlwL3N5bmVyemlwL2Fra2EvYWtrYS13b3Jrc2hvcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUjn7Hs51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARC9ob21lL3N5bmVyemlwL3N5bmVyemlwL2Fra2EvYWtrYS13b3Jrc2hvcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
